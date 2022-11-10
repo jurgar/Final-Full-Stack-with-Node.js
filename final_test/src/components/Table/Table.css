@@ -1,0 +1,41 @@
+.members-table {
+    border-collapse: separate;
+    border-spacing: 6px;
+    margin: 25px 0;
+    font-size: 1em;
+    min-width: 440px;
+  }
+
+  .members-table th,
+  .members-table td {
+    padding: 13px 35px;
+  }
+
+  .members-table thead tr {
+    background-color: goldenrod;
+    color: white;
+    text-align: left;
+    
+  }
+
+  .members-table tr {
+    background-color: lightgray;
+  }
+
+  .members-table tbody tr {
+    cursor: pointer;
+  }
+
+  .members-table tbody tr:hover {
+    background-color: lightgray;
+  }
+
+  .members-table tbody tr {
+    border-bottom: 1px solid lightgray;
+  }
+
+  .members-table tbody tr {
+    background-color: #f3f3f3;
+  }
+
+ 

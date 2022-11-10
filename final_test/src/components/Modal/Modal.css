@@ -1,0 +1,18 @@
+.modal {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(214, 174, 73, 0.901);
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+    border-radius: 5px;
+  }
+
+  .modal.hidden {
+    display: none;
+  }

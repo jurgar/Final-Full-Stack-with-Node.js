@@ -1,0 +1,12 @@
+.error {
+    height: 713px;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    /* width: 1900px */
+
+  }
+#Error {
+  background-color: rgba(0, 0, 0, 0.882);
+}
+ 
